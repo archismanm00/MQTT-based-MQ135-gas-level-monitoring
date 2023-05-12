@@ -1,0 +1,103 @@
+@import url('https://fonts.googleapis.com/css2?family=Overpass:wght@400;700&display=swap');
+
+html{
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+body {
+    
+  
+  position:relative;
+  left:0px;
+  border:20px;
+  
+  background-color:#001220;
+  background-image:url('./gg.svg');
+  display:flex;
+  align-content: center;
+  position: 50% 50%;
+  font-family: 'Overpass', sans-serif;
+  font-size: 50px
+  
+  
+  }
+
+.Name{
+  color:white;
+  
+  width:inherit;
+  position: relative;
+  top:50px;
+  
+
+}
+.Header{
+  
+
+  
+  padding:50px 0px 50px 0px;
+  color:white;
+  text-align: center;
+  
+  
+}
+
+.Tailer{
+  font-size: 0.5em;
+  color:aliceblue;
+  text-align:center;
+  
+}
+
+.flxdtbx{
+  padding:50px;
+  border:10px;
+
+  position: relative;
+  justify-content: center;
+  display : flex;
+  flex-wrap : wrap;
+  
+  
+  
+
+
+}
+
+
+.dsgsec{
+  background-image:url('./layered-waves-haikei.svg');
+  aspect-ratio: 1920/1080;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size:cover;
+}
+
+.dsgsecrev{
+  background-image:url('./layered-waves-haikei_1.svg');
+  aspect-ratio: 1920/1080;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size:cover;
+}
+.heading{
+  color:white;
+  text-align:center;
+}
+
+.BrGrph{
+  margin: 40px;  
+
+}
+
+
+
+
+
+
+
+
+
+
